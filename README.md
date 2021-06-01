@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Middle Earth Space
+This single page application was built using React.js and Tailwind.css.  
 
 ## Available Scripts
 
