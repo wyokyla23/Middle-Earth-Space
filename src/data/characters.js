@@ -72,7 +72,7 @@ const characters = {
   },
   merry: {
     name: 'Meriadoc Brandybuck',
-    profileImg: 'https://www.universeguide.com/small/character/merry.jpg',
+    profileImg: 'https://i.pinimg.com/originals/20/1b/88/201b8814bc242568936940c34180eb6e.jpg',
     bannerImg: 'https://wallpaperaccess.com/full/815634.jpg',
     sections: {
       profile: {
