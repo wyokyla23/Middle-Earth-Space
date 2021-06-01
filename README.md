@@ -1,6 +1,13 @@
 # Middle Earth Space
 This single page application was built using React.js and Tailwind.css.  
 
+Whether you're looking for a forever pal...
+![lotrspace](https://user-images.githubusercontent.com/62663716/120253096-19bc3580-c24c-11eb-95f5-9d32bc8dfe58.png)
+
+...or just need someone to scheme with, Middle Earth Space will provide.
+![lotr2space](https://user-images.githubusercontent.com/62663716/120253222-6acc2980-c24c-11eb-924e-6ccfeabd7177.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
