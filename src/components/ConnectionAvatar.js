@@ -9,7 +9,7 @@ const PropTypes = {
 }
 
 export default function ConnectionAvatar({ name }) {
-  const [_, setCharacter] = useContext(CharacterContext)
+  const [, setCharacter] = useContext(CharacterContext)
   const profileImg = characters[name].profileImg
   const characterName = characters[name].name
 
